@@ -1,4 +1,4 @@
-  This program utlizes Tkinter to create an application I called Currency Converter. as a school project. 
+  This program utlizes Tkinter to create an application "Currency Converter". 
 This program is made using python and imported libraries as "requests and tkinter".
 It uses an API from Frankfurter, Frankfurter is an open-source API for current and 
 historical foreign exchange rates published by the European Central Bank. (API does not track you)
